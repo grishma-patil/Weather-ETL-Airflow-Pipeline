@@ -1,4 +1,4 @@
-# Weather ETL Pipeline using Airflow, PostgreSQL & Docker
+## Weather ETL Pipeline using Airflow, PostgreSQL & Docker
 
 This project is an end-to-end **ETL pipeline** that I built to extract, transform, and load real-time weather data using **Apache Airflow**. It fetches live data from the Open-Meteo API and stores it in a PostgreSQL database. I containerized the pipeline using **Docker** and orchestrated all tasks using **Astro CLI** for local Airflow development.
 
